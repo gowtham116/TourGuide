@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+body{
+  background-image: url(payement.jpg);
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+.padding {
+    padding: 5rem !important
+}
+.form-control:focus {
+    box-shadow: 10px 0px 0px 0px #ffffff !important;
+    border-color: #34495E
+}
